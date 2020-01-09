@@ -114,10 +114,22 @@ footer {
     text-align: center;
 }
 
+.nav-ul .icon {
+    display: none;
+}
+
 @media only screen and (max-width: 630px) {
     ul.nav-ul{
       flex-direction: column;
       align-items: center;
+    }
+
+    .nav-ul li {
+        display: none;
+    }
+
+    .nav-ul .icon {
+        display: block;
     }
 
     li.nav-li{

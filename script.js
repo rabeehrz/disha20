@@ -1,3 +1,4 @@
+var menu = false;
 particlesJS("particles-js", {
     "particles": {
       "number": {
@@ -108,3 +109,11 @@ particlesJS("particles-js", {
     },
     "retina_detect": true
   });
+
+function collapse() {
+  var links = document.getElementsByClassName("nav-li");
+  for(var i = 1; i < links.length; i++) {
+    links[i].style.display = (menu) ? "none" : "block";
+  }
+  menu = (menu) ? false : true;
+}

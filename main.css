@@ -41,6 +41,7 @@ li.nav-li {
     list-style-type: none;
     margin: 0 4vw;
     font-size: 3.5vh;
+    transition: 0.2s linear;
 }
 
 a.nav-link {
@@ -119,6 +120,28 @@ footer {
 }
 
 @media only screen and (max-width: 630px) {
+    img.logo {
+        height: 200px;
+        width: 200px;
+    }
+
+    .word {
+        font-size: 42px;
+    }
+
+    .year {
+        font-size: 60px;
+    }
+
+    .slogan {
+        font-size: 16px;
+        margin-top: 0;
+    }
+
+    .main-date {
+        font-size: 30px;
+    }
+
     ul.nav-ul{
       flex-direction: column;
       align-items: center;

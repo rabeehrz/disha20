@@ -29,7 +29,7 @@ events = [
                     },
                     {
                         "name": "Arch",
-                        "points": 4
+                        "points": 3
                     },
                 ]
             },

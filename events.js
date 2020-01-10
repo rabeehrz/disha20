@@ -3,26 +3,55 @@ events = [
         "date": "January 10",
         "events": [
             {
-                "name": "PUBG",
-                "time": "09:00 - 10:00",
+                "name": "ICE BREAK",
+                "time": "5:00PM",
+                "venue": "DHWANI STAGE",
                 "winners": [
                     {
+                        "name": "ME",
+                        "points": 5
+                    },
+                    {
+                        "name": "EC",
+                        "points": 4
+                    },
+                    {
+                        "name": "CE",
+                        "points": 4
+                    },
+                    {
                         "name": "CS",
-                        "points": 25
-                    }
+                        "points": 4
+                    },
+                    {
+                        "name": "EE",
+                        "points": 4
+                    },
+                    {
+                        "name": "Arch",
+                        "points": 4
+                    },
                 ]
             },
             {
-                "name": "PES",
-                "time": "09:00 - 10:00",
+                "name": "PUBG MOBILE",
+                "time": "5:00PM",
+                "venue": "DHWANI STAGE",
                 "winners": [
                     {
-                        "name": "CS",
-                        "points": 12
+                        "name": "CE",
+                        "points": 5
+                    },
+                    {
+                        "name": "ME",
+                        "points": 3
+                    },
+                    {
+                        "name": "EC",
+                        "points": 1
                     }
                 ]
             }
-
         ]
     }
 ]

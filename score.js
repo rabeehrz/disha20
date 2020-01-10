@@ -25,7 +25,12 @@ var pointTable = [
     ["Architecture Dept.", points["Arch"]],
 ]
 pointTable.sort(function(a, b) {
-    return b[1] - a[1];
+    if(a[1] == b[1]) {
+        console.log(a, b)
+        return (b[0] > a[0]) ? -1 : 1;
+    } else {
+        return b[1] - a[1]
+    }
 });
 
 var table = document.getElementById("score-table");

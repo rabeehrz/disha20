@@ -53,5 +53,22 @@ events = [
                 ]
             }
         ]
+    },
+    {
+        "date": "January 11",
+        "events": [
+            {
+                "name": "GULLY CRICKET",
+                "time": "8:15AM - 11:AM",
+                "venue": "DHWANI STAGE",
+                "winners": []
+            },
+            {
+                "name": "PUBG MOBILE",
+                "time": "5:00PM",
+                "venue": "DHWANI STAGE",
+                "winners": []
+            }
+        ]
     }
 ]

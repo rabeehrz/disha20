@@ -162,7 +162,7 @@ footer {
 }
 
 .result-container {
-    width: 100%;
+    width: 70%;
     margin: 0 auto;
 }
 
@@ -197,6 +197,7 @@ span.winner-points {
 @media only screen and (max-width: 630px) {
     .result-container {
         margin-top: 4vh;
+        width: 100%;
     }
     .event-name {
         font-size: 30px;

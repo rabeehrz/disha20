@@ -117,3 +117,5 @@ function collapse() {
   }
   menu = (menu) ? false : true;
 }
+
+console.log(events)

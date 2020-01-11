@@ -80,6 +80,30 @@ events = [
                 "name": "PES MOBILE",
                 "time": "6:00PM - 7:00PM",
                 "venue": "DHWANI STAGE",
+                "winners": [
+                    {
+                        "name":"EE",
+                        "points": 5
+                    },
+                    {
+                        "name":"EC",
+                        "points": 3
+                    },
+                    {
+                        "name":"EE",
+                        "points": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "January 12",
+        "events": [
+            {
+                "name": "EXPLORO",
+                "time": "9:30AM",
+                "venue": "DHWANI STAGE",
                 "winners": []
             }
         ]

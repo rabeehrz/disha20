@@ -282,6 +282,7 @@ nav {
     transition: all 0.6s ease-out;
     height: 100%;
 }
+
 @media only screen and (max-width: 630px) {
     .co-convenor {
         flex-direction: column;

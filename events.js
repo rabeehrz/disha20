@@ -61,7 +61,20 @@ events = [
                 "name": "GULLY CRICKET",
                 "time": "8:15AM - 11:00AM<br>3:30PM - 7:00PM",
                 "venue": "DHWANI STAGE",
-                "winners": []
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 25
+                    },
+                    {
+                        "name": "CS",
+                        "points": 15
+                    },
+                    {
+                        "name": "CE",
+                        "points": 10
+                    }
+                ]
             },
             {
                 "name": "PES MOBILE",

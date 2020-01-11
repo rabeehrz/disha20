@@ -6,7 +6,15 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>DISHA '20 | College of Engineering Trivandrum</title>
     <link rel="stylesheet" href="main.css" type="text/css">
-    <script src="https://kit.fontawesome.com/bacb82f1fc.js" crossorigin="anonymous"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156066754-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-156066754-1');
+    </script>
 </head>
 <body>
     <div id="particles-js"></div>
@@ -15,9 +23,11 @@
             <nav>
                 <ul class="nav-ul">
                     <li class="nav-li icon">
-                        <a href="javascript:void(0);" class="nav-link" onclick="collapse()">
-                            <i class="fa fa-bars fa-lg" aria-hidden="true"></i>
-                        </a>
+                        <div class="container" onclick="collapse(this)">
+                            <div class="bar1"></div>
+                            <div class="bar2"></div>
+                            <div class="bar3"></div>
+                        </div>
                     </li>
                     <li class="nav-li" id="nav-link"><a class ="nav-link" href="index.html">Home</a></li>
                     <li class="nav-li" id="nav-link"><a class ="nav-link" href="scoreboard.html">Scoreboard</a></li>

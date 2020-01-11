@@ -110,10 +110,11 @@ particlesJS("particles-js", {
     "retina_detect": true
   });
 
-function collapse() {
+function collapse(x) {
   var links = document.getElementsByClassName("nav-li");
   for(var i = 1; i < links.length; i++) {
     links[i].style.display = (menu) ? "none" : "block";
   }
+  x.classList.toggle("change");
   menu = (menu) ? false : true;
 }

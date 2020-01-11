@@ -59,13 +59,13 @@ events = [
         "events": [
             {
                 "name": "GULLY CRICKET",
-                "time": "8:15AM - 11:AM",
+                "time": "8:15AM - 11:00AM<br>3:30PM - 7:00PM",
                 "venue": "DHWANI STAGE",
                 "winners": []
             },
             {
-                "name": "PUBG MOBILE",
-                "time": "5:00PM",
+                "name": "PES MOBILE",
+                "time": "6:00PM - 7:00PM",
                 "venue": "DHWANI STAGE",
                 "winners": []
             }

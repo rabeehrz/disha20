@@ -104,7 +104,20 @@ events = [
                 "name": "EXPLORO",
                 "time": "9:30AM",
                 "venue": "DHWANI STAGE",
-                "winners": []
+                "winners": [
+                    {
+                        "name": "Arch",
+                        "points": 25
+                    },
+                    {
+                        "name": "CS",
+                        "points": 15
+                    },
+                    {
+                        "name": "ME",
+                        "points": 10
+                    }
+                ]
             }
         ]
     }

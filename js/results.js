@@ -13,8 +13,6 @@ results.sort(function(a, b) {
     return (b.name > a.name) ? -1 : 1;
 });
 
-console.log(results)
-
 var resultContainer = document.getElementById("result-container")
 
 for(var i = 0; i < results.length; i++) {

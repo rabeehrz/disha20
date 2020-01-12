@@ -283,6 +283,11 @@ nav {
     height: 100%;
 }
 
+.techie-link {
+    margin: 3vh 0vh 3vh -10vh;
+    letter-spacing: normal !important;
+}
+
 @media only screen and (max-width: 630px) {
     .co-convenor {
         flex-direction: column;

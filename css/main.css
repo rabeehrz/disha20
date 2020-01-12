@@ -209,6 +209,7 @@ span.winner-points {
 
 .schedule-table td {
     margin: 5vh 0;
+
 }
 
 .schedule-table td:last-child {
@@ -297,13 +298,17 @@ nav {
         margin: 2vh 0;
     }
 
+    .techie-link {
+        margin: 3vh 0;
+    }
+
     .schedule-container {
         width: 100%;
         margin: 5vh 0 0 0;
     }
     .schedule-table {
         width: 100%;
-        font-size: 20px;
+        font-size: 12px;
     }
     .result-container {
         margin-top: 4vh;

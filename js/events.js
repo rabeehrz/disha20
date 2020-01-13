@@ -142,6 +142,25 @@ events = [
                         "points": 1
                     }
                 ]
+            },
+            {
+                "name": "RECITATION (MALAYALAM) ",
+                "time": "4:30PM - 6:30PM",
+                "venue": "A322",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 5
+                    },
+                    {
+                        "name": "EC",
+                        "points": 3
+                    },
+                    {
+                        "name": "EE",
+                        "points": 1
+                    }
+                ]
             }
         ]
     }

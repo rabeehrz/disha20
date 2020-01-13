@@ -120,5 +120,29 @@ events = [
                 ]
             }
         ]
+    },
+    {
+        "date": "January 13",
+        "events": [
+            {
+                "name": "SPOT DUBBING",
+                "time": "4PM - 6PM",
+                "venue": "EC 204",
+                "winners": [
+                    {
+                        "name": "CE",
+                        "points": 5
+                    },
+                    {
+                        "name": "EE",
+                        "points": 3
+                    },
+                    {
+                        "name": "EE",
+                        "points": 1
+                    }
+                ]
+            }
+        ]
     }
 ]

@@ -185,6 +185,25 @@ events = [
                         "points": 1
                     }
                 ]
+            },
+            {
+                "name": "RECITATION (ENGLISH)",
+                "time": "4:30PM - 6:00PM",
+                "venue": "EE 308",
+                "winners": [
+                    {
+                        "name": "EE",
+                        "points": 5
+                    },
+                    {
+                        "name": "EC",
+                        "points": 3
+                    },
+                    {
+                        "name": "AE",
+                        "points": 1
+                    }
+                ]
             }
         ]
     }

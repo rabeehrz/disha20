@@ -17,7 +17,7 @@ for(var i = 0; i < events.length; i++) {
 }
 
 var pointTable = [
-    ["Electronics and Communications Dept", points["EC"]],
+    ["Electronics Dept", points["EC"]],
     ["Computer Science Dept.", points["CS"]],
     ["Civil Dept.", points["CE"]],
     ["Mechanical Dept.", points["ME"]],

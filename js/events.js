@@ -200,11 +200,31 @@ events = [
                         "points": 3
                     },
                     {
-                        "name": "AE",
+                        "name": "EC",
                         "points": 1
                     }
                 ]
+            },
+            {
+                "name": "CHESS",
+                "time": "4:00PM - 5:00PM",
+                "venue": "EE 308",
+                "winners": [
+                    {
+                        "name": "EE",
+                        "points": 10
+                    },
+                    {
+                        "name": "ME",
+                        "points": 5
+                    },
+                    {
+                        "name": "EE",
+                        "points": 3
+                    }
+                ]
             }
+
         ]
     }
 ]

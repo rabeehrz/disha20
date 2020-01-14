@@ -242,6 +242,25 @@ events = [
                         "points": 3
                     }
                 ]
+            },
+            {
+                "name": "BADMINTON(SINGLES, GIRLS)",
+                "time": "5:00PM - 6:00PM",
+                "venue": "PHYSICAL EDU Dept.",
+                "winners": [
+                    {
+                        "name": "CS",
+                        "points": 10
+                    },
+                    {
+                        "name": "CE",
+                        "points": 5
+                    },
+                    {
+                        "name": "EC",
+                        "points": 3
+                    }
+                ]
             }
 
         ]

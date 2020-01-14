@@ -223,6 +223,25 @@ events = [
                         "points": 3
                     }
                 ]
+            },
+            {
+                "name": "CARROMS",
+                "time": "5:00PM - 6:00PM",
+                "venue": "PHYSICAL EDU Dept.",
+                "winners": [
+                    {
+                        "name": "ME",
+                        "points": 10
+                    },
+                    {
+                        "name": "EC",
+                        "points": 5
+                    },
+                    {
+                        "name": "EE",
+                        "points": 3
+                    }
+                ]
             }
 
         ]

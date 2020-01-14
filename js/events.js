@@ -244,8 +244,8 @@ events = [
                 ]
             },
             {
-                "name": "BADMINTON(SINGLES, GIRLS)",
-                "time": "5:00PM - 6:00PM",
+                "name": "BADMINTON (SINGLES, GIRLS)",
+                "time": "5:00PM - 8:00PM",
                 "venue": "PHYSICAL EDU Dept.",
                 "winners": [
                     {
@@ -261,7 +261,46 @@ events = [
                         "points": 3
                     }
                 ]
-            }
+            },
+            {
+                "name": "PENCIL SKETCH",
+                "time": "4:00PM - 6:00PM",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 5
+                    },
+                    {
+                        "name": "EC",
+                        "points": 3
+                    },
+                    {
+                        "name": "Arch",
+                        "points": 1
+                    }
+                ]
+            },
+            {
+                "name": "BADMINTON (DOUBLES, GIRLS)",
+                "time": "4:00PM - 8:00PM",
+                "venue": "Physical Edu Dept.",
+                "winners": [
+                    {
+                        "name": "CE",
+                        "points": 15
+                    },
+                    {
+                        "name": "EC",
+                        "points": 10
+                    },
+                    {
+                        "name": "CS",
+                        "points": 5
+                    }
+                ]
+            },
+
 
         ]
     }

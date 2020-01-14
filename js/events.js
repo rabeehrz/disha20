@@ -163,5 +163,29 @@ events = [
                 ]
             }
         ]
+    },
+    {
+        "date": "January 14",
+        "events": [
+            {
+                "name": "ANTHAKSHARI",
+                "time": "4:00PM - 6:00PM",
+                "venue": "EC 204",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 5
+                    },
+                    {
+                        "name": "Arch",
+                        "points": 3
+                    },
+                    {
+                        "name": "CE",
+                        "points": 1
+                    }
+                ]
+            }
+        ]
     }
 ]

@@ -403,6 +403,25 @@ events = [
                         "points": 3
                     },
                 ]
+            },
+            {
+                "name": "WESTERN SOLO",
+                "time": "12:30PM - 2:00PM",
+                "venue": "CETAA HALL",
+                "winners": [
+                    {
+                        "name": "CS",
+                        "points": 5
+                    },
+                    {
+                        "name": "Arch",
+                        "points": 3
+                    },
+                    {
+                        "name": "EC",
+                        "points": 1
+                    },
+                ]
             }
         ]
     }

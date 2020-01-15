@@ -337,11 +337,30 @@ events = [
                         "points": 5
                     }
                 ]
-            }
+            },
+            {
+                "name": "ESSAY WRITING (MALAYALAM)",
+                "time": "4:00PM - 5:00PM",
+                "venue": "EE205",
+                "winners": [
+                    {
+                        "name": "CE",
+                        "points": 5
+                    },
+                    {
+                        "name": "CE",
+                        "points": 3
+                    },
+                    {
+                        "name": "ME",
+                        "points": 1
+                    }
+                ]
+            },
         ]
     },
     {
-        "date": "January 14",
+        "date": "January 15",
         "events": [
             {
                 "name": "DUO",

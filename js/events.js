@@ -161,7 +161,26 @@ events = [
                         "points": 1
                     }
                 ]
-            }
+            },
+            {
+                "name": "JINGLE WRITING",
+                "time": "4:00PM - 4:30PM",
+                "venue": "A321 A,B",
+                "winners": [
+                    {
+                        "name": "ME",
+                        "points": 5
+                    },
+                    {
+                        "name": "EE",
+                        "points": 3
+                    },
+                    {
+                        "name": "EE",
+                        "points": 1
+                    }
+                ]
+            },
         ]
     },
     {
@@ -299,9 +318,31 @@ events = [
                         "points": 5
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "date": "January 14",
+        "events": [
+            {
+                "name": "DUO",
+                "time": "8:00AM - 9:30AM",
+                "venue": "CETAA HALL",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 15
+                    },
+                    {
+                        "name": "EC",
+                        "points": 10
+                    },
+                    {
+                        "name": "CS",
+                        "points": 5
+                    }
+                ]
             },
-
-
         ]
     }
 ]

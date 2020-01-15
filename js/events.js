@@ -400,7 +400,7 @@ events = [
                     },
                     {
                         "name": "EC",
-                        "points": 3
+                        "points": 5
                     },
                 ]
             },
@@ -420,6 +420,63 @@ events = [
                     {
                         "name": "EC",
                         "points": 1
+                    },
+                ]
+            },
+            {
+                "name": "EXTEMPORE (HINDI)",
+                "time": "2:00PM - 4:00PM",
+                "venue": "A321A",
+                "winners": [
+                    {
+                        "name": "EE",
+                        "points": 5
+                    },
+                    {
+                        "name": "Arch",
+                        "points": 3
+                    },
+                    {
+                        "name": "EE",
+                        "points": 1
+                    },
+                ]
+            },
+            {
+                "name": "EXTEMPORE (ENGLISH)",
+                "time": "2:00PM - 4:00PM",
+                "venue": "A321B",
+                "winners": [
+                    {
+                        "name": "ME",
+                        "points": 5
+                    },
+                    {
+                        "name": "CS",
+                        "points": 3
+                    },
+                    {
+                        "name": "EC",
+                        "points": 1
+                    },
+                ]
+            },
+            {
+                "name": "NADANPATTU",
+                "time": "2:00PM - 3:30PM",
+                "venue": "CETAA HALL",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 25
+                    },
+                    {
+                        "name": "CS",
+                        "points": 15
+                    },
+                    {
+                        "name": "ME",
+                        "points": 10
                     },
                 ]
             }

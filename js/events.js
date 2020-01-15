@@ -462,21 +462,21 @@ events = [
                 ]
             },
             {
-                "name": "NADANPATTU",
-                "time": "2:00PM - 3:30PM",
+                "name": "ACAPELLA",
+                "time": "3:30PM - 5:00PM",
                 "venue": "CETAA HALL",
                 "winners": [
-                    {
-                        "name": "EC",
-                        "points": 25
-                    },
                     {
                         "name": "CS",
                         "points": 15
                     },
                     {
-                        "name": "ME",
+                        "name": "EC",
                         "points": 10
+                    },
+                    {
+                        "name": "CE",
+                        "points": 5
                     },
                 ]
             }

@@ -181,6 +181,25 @@ events = [
                     }
                 ]
             },
+            {
+                "name": "CREATIVE WRITING (ENGLISH)",
+                "time": "5:30PM - 6:30PM",
+                "venue": "A321 A,B",
+                "winners": [
+                    {
+                        "name": "CE",
+                        "points": 5
+                    },
+                    {
+                        "name": "Arch",
+                        "points": 3
+                    },
+                    {
+                        "name": "EC",
+                        "points": 1
+                    }
+                ]
+            }
         ]
     },
     {

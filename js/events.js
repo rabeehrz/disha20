@@ -384,6 +384,25 @@ events = [
                         "points": 5
                     }
                 ]
+            },
+            {
+                "name": "DEBATE",
+                "time": "10:00AM - 12:00PM",
+                "venue": "ARCHIE CORNER",
+                "winners": [
+                    {
+                        "name": "ME",
+                        "points": 15
+                    },
+                    {
+                        "name": "CS",
+                        "points": 10
+                    },
+                    {
+                        "name": "EC",
+                        "points": 3
+                    },
+                ]
             }
         ]
     }

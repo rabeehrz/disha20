@@ -30,12 +30,13 @@ for(var i = 0; i < results.length; i++) {
     var winnersList = document.createElement('UL');
     winnersList.className = "winners";
 
+    var rank = 1;
     for(var j = 0; j < results[i].winners.length; j++) {
         var winner  = document.createElement('LI');
 
         var winnerSpan = document.createElement('SPAN');
         winnerSpan.className = "winner-name";
-        winnerSpan.appendChild(document.createTextNode((j + 1) + ". " + results[i].winners[j].name));
+        winnerSpan.appendChild(document.createTextNode((rank) + ". " + results[i].winners[j].name));
         winner.appendChild(winnerSpan);
 
         var scoreSpan = document.createElement('SPAN');
@@ -44,6 +45,11 @@ for(var i = 0; i < results.length; i++) {
         winner.appendChild(scoreSpan);
 
         winnersList.appendChild(winner)
+        if(j+1 < results[i].winners.length) {
+            if(results[i].winners[j].points != results[i].winners[j+1].points) {
+                rank++;
+            }
+        }
     }
 
     eventContainer.appendChild(winnersList)

@@ -343,6 +343,29 @@ events = [
                     }
                 ]
             },
+            {
+                "name": "PICTURE PERCEPTION",
+                "time": "10:00AM - 11:00AM",
+                "venue": "CETAA HALL",
+                "winners": [
+                    {
+                        "name": "EE",
+                        "points": 15
+                    },
+                    {
+                        "name": "CE",
+                        "points": 10
+                    },
+                    {
+                        "name": "EC",
+                        "points": 5
+                    },
+                    {
+                        "name": "ME",
+                        "points": 5
+                    }
+                ]
+            }
         ]
     }
 ]

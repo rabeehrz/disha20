@@ -199,7 +199,27 @@ events = [
                         "points": 1
                     }
                 ]
+            },
+            {
+                "name": "CREATIVE WRITING (MALAYALAM)",
+                "time": "5:30PM - 6:30PM",
+                "venue": "A321 A,B",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 5
+                    },
+                    {
+                        "name": "CE",
+                        "points": 3
+                    },
+                    {
+                        "name": "EC",
+                        "points": 1
+                    }
+                ]
             }
+            
         ]
     },
     {

@@ -396,6 +396,25 @@ events = [
                     }
                 ]
             },
+            {
+                "name": "WATER COLOURING",
+                "time": "4:00PM - 6:00PM",
+                "venue": "EE307",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 5
+                    },
+                    {
+                        "name": "EC",
+                        "points": 3
+                    },
+                    {
+                        "name": "Arch",
+                        "points": 1
+                    }
+                ]
+            },
         ]
     },
     {

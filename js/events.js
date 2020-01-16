@@ -626,14 +626,33 @@ events = [
                 "winners": [
                     {
                         "name": "ME",
-                        "points": 5
+                        "points": 15
                     },
                     {
                         "name": "CE",
-                        "points": 3
+                        "points": 10
                     },
                     {
                         "name": "EC",
+                        "points": 5
+                    }
+                ]
+            },
+            {
+                "name": "SPOT COMMENTARY",
+                "time": "5:00PM - 6:00PM",
+                "venue": "EE 204",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 5
+                    },
+                    {
+                        "name": "CS",
+                        "points": 3
+                    },
+                    {
+                        "name": "EE",
                         "points": 1
                     }
                 ]

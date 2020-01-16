@@ -556,6 +556,25 @@ events = [
                         "points": 5
                     },
                 ]
+            },
+            {
+                "name": "NADANPATTU",
+                "time": "2:00PM - 3:30PM",
+                "venue": "CETAA HALL",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 25
+                    },
+                    {
+                        "name": "CS",
+                        "points": 15
+                    },
+                    {
+                        "name": "ME",
+                        "points": 10
+                    },
+                ]
             }
         ]
     },
@@ -673,6 +692,25 @@ events = [
                     {
                         "name": "ME",
                         "points": 3
+                    }
+                ]
+            },
+            {
+                "name": "BADMINTON (DOUBLES, BOYS)",
+                "time": "5:00PM - 8:00PM",
+                "venue": "PHYSICAL EDU. DEPT.",
+                "winners": [
+                    {
+                        "name": "ME",
+                        "points": 15
+                    },
+                    {
+                        "name": "EE",
+                        "points": 10
+                    },
+                    {
+                        "name": "CS",
+                        "points": 5
                     }
                 ]
             }

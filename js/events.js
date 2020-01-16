@@ -558,5 +558,48 @@ events = [
                 ]
             }
         ]
-    }
+    },
+    {
+        "date": "January 16",
+        "events": [
+            {
+                "name": "MAPPILAPATTU",
+                "time": "4:00PM - 5:00PM",
+                "venue": "EC 204",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 5
+                    },
+                    {
+                        "name": "ME",
+                        "points": 3
+                    },
+                    {
+                        "name": "ME",
+                        "points": 1
+                    }
+                ]
+            },
+            {
+                "name": "DUMBCHARADES",
+                "time": "4:00PM - 5:00PM",
+                "venue": "EC 202",
+                "winners": [
+                    {
+                        "name": "EE",
+                        "points": 5
+                    },
+                    {
+                        "name": "EC",
+                        "points": 3
+                    },
+                    {
+                        "name": "Arch",
+                        "points": 1
+                    }
+                ]
+            }
+        ]
+    },
 ]

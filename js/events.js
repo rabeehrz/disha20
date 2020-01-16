@@ -219,7 +219,7 @@ events = [
                     }
                 ]
             }
-            
+
         ]
     },
     {
@@ -373,6 +373,25 @@ events = [
                     },
                     {
                         "name": "ME",
+                        "points": 1
+                    }
+                ]
+            },
+            {
+                "name": "ESSAY WRITING (HINDI)",
+                "time": "4:00PM - 5:00PM",
+                "venue": "EE305",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 5
+                    },
+                    {
+                        "name": "CE",
+                        "points": 3
+                    },
+                    {
+                        "name": "EC",
                         "points": 1
                     }
                 ]

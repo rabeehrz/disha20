@@ -599,6 +599,44 @@ events = [
                         "points": 1
                     }
                 ]
+            },
+            {
+                "name": "GUESS WHO",
+                "time": "4:00PM - 6:30PM",
+                "venue": "EC 307",
+                "winners": [
+                    {
+                        "name": "CS",
+                        "points": 5
+                    },
+                    {
+                        "name": "EE",
+                        "points": 3
+                    },
+                    {
+                        "name": "EC",
+                        "points": 1
+                    }
+                ]
+            },
+            {
+                "name": "ADZAP",
+                "time": "5:00PM - 6:00PM",
+                "venue": "EE 305",
+                "winners": [
+                    {
+                        "name": "ME",
+                        "points": 5
+                    },
+                    {
+                        "name": "CE",
+                        "points": 3
+                    },
+                    {
+                        "name": "EC",
+                        "points": 1
+                    }
+                ]
             }
         ]
     },

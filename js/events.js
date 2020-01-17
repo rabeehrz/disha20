@@ -754,4 +754,85 @@ events = [
             }
         ]
     },
+    {
+        "date": "January 17",
+        "events": [
+            {
+                "name": "SHORT FILM",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "CS",
+                        "points": 25
+                    },
+                    {
+                        "name": "EE",
+                        "points": 15
+                    },
+                    {
+                        "name": "ME",
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "name": "MANNEQUIN",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "EE",
+                        "points": 25
+                    },
+                    {
+                        "name": "EC",
+                        "points": 15
+                    }
+                ]
+            },
+            {
+                "name": "MUSICAL COVER",
+                "time": "4:00PM - 6:30PM",
+                "venue": "EC 307",
+                "winners": [
+                    {
+                        "name": "ME",
+                        "points": 25
+                    },
+                    {
+                        "name": "EC",
+                        "points": 15
+                    },
+                    {
+                        "name": "EE",
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "name": "LIGHT MUSIC",
+                "time": "3:00PM - 5:00PM",
+                "venue": "CETAA HALL",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 5
+                    },
+                    {
+                        "name": "EC",
+                        "points": 5
+                    },
+                    {
+                        "name": "CE",
+                        "points": 3
+                    },
+                    {
+                        "name": "CS",
+                        "points": 1
+                    }
+                ]
+            },
+        ]
+    },
 ]

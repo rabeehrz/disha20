@@ -777,40 +777,6 @@ events = [
                 ]
             },
             {
-                "name": "MANNEQUIN",
-                "time": "",
-                "venue": "",
-                "winners": [
-                    {
-                        "name": "EE",
-                        "points": 25
-                    },
-                    {
-                        "name": "EC",
-                        "points": 15
-                    }
-                ]
-            },
-            {
-                "name": "MUSICAL COVER",
-                "time": "4:00PM - 6:30PM",
-                "venue": "EC 307",
-                "winners": [
-                    {
-                        "name": "ME",
-                        "points": 25
-                    },
-                    {
-                        "name": "EC",
-                        "points": 15
-                    },
-                    {
-                        "name": "EE",
-                        "points": 10
-                    }
-                ]
-            },
-            {
                 "name": "LIGHT MUSIC",
                 "time": "3:00PM - 5:00PM",
                 "venue": "CETAA HALL",
@@ -829,6 +795,52 @@ events = [
                     },
                     {
                         "name": "CS",
+                        "points": 1
+                    }
+                ]
+            },
+            {
+                "name": "RECITATION (HINDI)",
+                "time": "5:00PM - 6:00PM",
+                "venue": "EC 202",
+                "winners": [
+                    {
+                        "name": "CE",
+                        "points": 5
+                    },
+                    {
+                        "name": "EC",
+                        "points": 5
+                    },
+                    {
+                        "name": "EC",
+                        "points": 3
+                    },
+                    {
+                        "name": "Arch",
+                        "points": 1
+                    },
+                    {
+                        "name": "CE",
+                        "points": 1
+                    }
+                ]
+            },
+            {
+                "name": "EXTEMPORE (MALAYALAM)",
+                "time": "4:00PM - 5:00PM",
+                "venue": "EE 305",
+                "winners": [
+                    {
+                        "name": "ME",
+                        "points": 5
+                    },
+                    {
+                        "name": "CE",
+                        "points": 3
+                    },
+                    {
+                        "name": "ME",
                         "points": 1
                     }
                 ]

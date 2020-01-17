@@ -397,6 +397,25 @@ events = [
                 ]
             },
             {
+                "name": "ESSAY WRITING (ENGLISH)",
+                "time": "5:00PM - 6:00PM",
+                "venue": "EE 305, EE 306",
+                "winners": [
+                    {
+                        "name": "EE",
+                        "points": 5
+                    },
+                    {
+                        "name": "CS",
+                        "points": 3
+                    },
+                    {
+                        "name": "EC",
+                        "points": 1
+                    }
+                ]
+            },
+            {
                 "name": "WATER COLOURING",
                 "time": "4:00PM - 6:00PM",
                 "venue": "EE307",

@@ -883,8 +883,25 @@ events = [
                     }
                 ]
             },
-
-
+            {
+                "name": "MINIMAL POSTER",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 5
+                    },
+                    {
+                        "name": "CE",
+                        "points": 3
+                    },
+                    {
+                        "name": "EC",
+                        "points": 1
+                    }
+                ]
+            },
         ]
     },
 ]

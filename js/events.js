@@ -845,6 +845,46 @@ events = [
                     }
                 ]
             },
+            {
+                "name": "TABLE TENNIS (BOYS)",
+                "time": "4:00PM - 8:00PM",
+                "venue": "PHYSICAL EDU. DEPT",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 10
+                    },
+                    {
+                        "name": "EC",
+                        "points": 5
+                    },
+                    {
+                        "name": "CS",
+                        "points": 3
+                    }
+                ]
+            },
+            {
+                "name": "TABLE TENNIS (GIRLS)",
+                "time": "4:00PM - 8:00PM",
+                "venue": "PHYSICAL EDU. DEPT",
+                "winners": [
+                    {
+                        "name": "Arch",
+                        "points": 10
+                    },
+                    {
+                        "name": "EE",
+                        "points": 5
+                    },
+                    {
+                        "name": "EC",
+                        "points": 3
+                    }
+                ]
+            },
+
+
         ]
     },
 ]

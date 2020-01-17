@@ -594,7 +594,26 @@ events = [
                         "points": 10
                     },
                 ]
-            }
+            },
+            {
+                "name": "PHOTO MANIPULATION",
+                "time": "4:00PM - 6:00PM",
+                "venue": "EE307",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 5
+                    },
+                    {
+                        "name": "CE",
+                        "points": 3
+                    },
+                    {
+                        "name": "ME",
+                        "points": 1
+                    }
+                ]
+            },
         ]
     },
     {

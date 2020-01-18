@@ -1,6 +1,7 @@
 //Techie: EC(30)
+//Disha Idol: EC(25)
 var points = {
-    "EC": 30,
+    "EC": 55,
     "CS": 0,
     "CE": 0,
     "ME": 0,

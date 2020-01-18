@@ -983,6 +983,44 @@ events = [
                     }
                 ]
             },
+            {
+                "name": "MONOACT",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "EE",
+                        "points": 5
+                    },
+                    {
+                        "name": "ME",
+                        "points": 3
+                    },
+                    {
+                        "name": "EE",
+                        "points": 1
+                    }
+                ]
+            },
+            {
+                "name": "QUIZ",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "CS",
+                        "points": 15
+                    },
+                    {
+                        "name": "CS",
+                        "points": 10
+                    },
+                    {
+                        "name": "EE",
+                        "points": 5
+                    }
+                ]
+            },
         ]
     },
 ]

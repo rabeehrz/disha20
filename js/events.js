@@ -904,4 +904,28 @@ events = [
             },
         ]
     },
+    {
+        "date": "January 17",
+        "events": [
+            {
+                "name": "KHO KHO",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "EE",
+                        "points": 25
+                    },
+                    {
+                        "name": "ME",
+                        "points": 15
+                    },
+                    {
+                        "name": "CE",
+                        "points": 10
+                    }
+                ]
+            },
+        ]
+    },
 ]

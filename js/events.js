@@ -1021,6 +1021,44 @@ events = [
                     }
                 ]
             },
+            {
+                "name": "SHOT STORY",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 15
+                    },
+                    {
+                        "name": "EE",
+                        "points": 10
+                    },
+                    {
+                        "name": "ME",
+                        "points": 5
+                    }
+                ]
+            },
+            {
+                "name": "TRAILER MAKING",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "CS",
+                        "points": 15
+                    },
+                    {
+                        "name": "ME",
+                        "points": 10
+                    },
+                    {
+                        "name": "EC",
+                        "points": 5
+                    }
+                ]
+            },
         ]
     },
 ]

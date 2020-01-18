@@ -1059,6 +1059,87 @@ events = [
                     }
                 ]
             },
+            {
+                "name": "VERSIFICATION (MALAYALAM)",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "CE",
+                        "points": 5
+                    },
+                    {
+                        "name": "ME",
+                        "points": 3
+                    },
+                    {
+                        "name": "CE",
+                        "points": 1
+                    }
+                ]
+            },
+        ]
+    },
+    {
+        "date": "January 17",
+        "events": [
+            {
+                "name": "JAM",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "ME",
+                        "points": 5
+                    },
+                    {
+                        "name": "EE",
+                        "points": 3
+                    },
+                    {
+                        "name": "Arch",
+                        "points": 1
+                    }
+                ]
+            },
+            {
+                "name": "FOOTBALL",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "EE",
+                        "points": 25
+                    },
+                    {
+                        "name": "CS",
+                        "points": 15
+                    },
+                    {
+                        "name": "ME",
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "name": "MUSICAL COVER",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "ME",
+                        "points": 25
+                    },
+                    {
+                        "name": "EC",
+                        "points": 15
+                    },
+                    {
+                        "name": "EE",
+                        "points": 10
+                    }
+                ]
+            },
         ]
     },
 ]

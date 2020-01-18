@@ -1,11 +1,12 @@
 //Techie: EC(30)
 //Disha Idol: EC(25)
+//RJ HUNT: EE(25)
 var points = {
     "EC": 55,
     "CS": 0,
     "CE": 0,
     "ME": 0,
-    "EE": 0,
+    "EE": 25,
     "Arch": 0
 };
 for(var i = 0; i < events.length; i++) {

@@ -902,6 +902,44 @@ events = [
                     }
                 ]
             },
+            {
+                "name": "STREET PLAY",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 25
+                    },
+                    {
+                        "name": "EE",
+                        "points": 20
+                    },
+                    {
+                        "name": "CE",
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "name": "DOODLE ART",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "Arch",
+                        "points": 5
+                    },
+                    {
+                        "name": "Arch",
+                        "points": 3
+                    },
+                    {
+                        "name": "Arch",
+                        "points": 1
+                    }
+                ]
+            },
         ]
     },
     {
@@ -923,6 +961,25 @@ events = [
                     {
                         "name": "CE",
                         "points": 10
+                    }
+                ]
+            },
+            {
+                "name": "TROLL HUNT",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "ME",
+                        "points": 5
+                    },
+                    {
+                        "name": "CE",
+                        "points": 3
+                    },
+                    {
+                        "name": "ME",
+                        "points": 1
                     }
                 ]
             },

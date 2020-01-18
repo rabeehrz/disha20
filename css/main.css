@@ -290,6 +290,10 @@ nav {
     letter-spacing: normal !important;
 }
 
+.techie-name {
+    margin: 3vh 0vh 0vh -10vh !important;
+}
+
 @media only screen and (max-width: 630px) {
     .co-convenor {
         flex-direction: column;

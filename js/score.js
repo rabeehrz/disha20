@@ -1,5 +1,6 @@
+//Techie: EC(30)
 var points = {
-    "EC": 0,
+    "EC": 30,
     "CS": 0,
     "CE": 0,
     "ME": 0,

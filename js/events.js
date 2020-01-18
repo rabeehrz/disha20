@@ -1090,15 +1090,15 @@ events = [
                 "winners": [
                     {
                         "name": "ME",
-                        "points": 5
+                        "points": 10
                     },
                     {
                         "name": "EE",
-                        "points": 3
+                        "points": 5
                     },
                     {
                         "name": "Arch",
-                        "points": 1
+                        "points": 3
                     }
                 ]
             },

@@ -1,11 +1,12 @@
 //Techie: EC(30)
 //Disha Idol: EC(25)
 //RJ HUNT: EE(25)
+//Persona: ME(30)
 var points = {
     "EC": 55,
     "CS": 0,
     "CE": 0,
-    "ME": 0,
+    "ME": 30,
     "EE": 25,
     "Arch": 0
 };

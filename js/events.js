@@ -1140,6 +1140,21 @@ events = [
                     }
                 ]
             },
+            {
+                "name": "MANNEQUIN",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "EE",
+                        "points": 25
+                    },
+                    {
+                        "name": "EC",
+                        "points": 15
+                    }
+                ]
+            },
         ]
     },
 ]

@@ -1483,6 +1483,48 @@ events = [
                     }
                 ]
             },
+            {
+                "name": "FASHION SHOW",
+                "time": "",
+                "venue": "DJ HALL",
+                "winners": [
+                    {
+                        "name": "ME",
+                        "points": 30
+                    },
+                    {
+                        "name": "Arch",
+                        "points": 20
+                    },
+                    {
+                        "name": "EC",
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "name": "MAGAZINE",
+                "time": "",
+                "venue": "DJ HALL",
+                "winners": [
+                    {
+                        "name": "EC",
+                        "points": 25
+                    },
+                    {
+                        "name": "EE",
+                        "points": 15
+                    },
+                    {
+                        "name": "ME",
+                        "points": 10
+                    },
+                    {
+                        "name": "CE",
+                        "points": 10
+                    }
+                ]
+            },
         ]
     },
 ]

@@ -1155,6 +1155,82 @@ events = [
                     }
                 ]
             },
+            {
+                "name": "FACE PAINTING",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "Arch",
+                        "points": 5
+                    },
+                    {
+                        "name": "Arch",
+                        "points": 3
+                    },
+                    {
+                        "name": "Arch",
+                        "points": 1
+                    }
+                ]
+            },
+            {
+                "name": "CARTOONING",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "Arch",
+                        "points": 5
+                    },
+                    {
+                        "name": "EC",
+                        "points": 3
+                    },
+                    {
+                        "name": "EE",
+                        "points": 1
+                    }
+                ]
+            },
+            {
+                "name": "VERSIFICATION (ENGLISH)",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "CS",
+                        "points": 5
+                    },
+                    {
+                        "name": "EC",
+                        "points": 3
+                    },
+                    {
+                        "name": "ME",
+                        "points": 1
+                    }
+                ]
+            },
+            {
+                "name": "FILM REVIEW",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "ME",
+                        "points": 5
+                    },
+                    {
+                        "name": "Arch",
+                        "points": 3
+                    },
+                    {
+                        "name": "ME",
+                        "points": 1
+                    }
+                ]
+            },
         ]
     },
 ]

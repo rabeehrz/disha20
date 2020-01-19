@@ -1231,6 +1231,29 @@ events = [
                     }
                 ]
             },
+            {
+                "name": "PROCESSION",
+                "time": "",
+                "venue": "",
+                "winners": [
+                    {
+                        "name": "CE",
+                        "points": 30
+                    },
+                    {
+                        "name": "EE",
+                        "points": 20
+                    },
+                    {
+                        "name": "ME",
+                        "points": 20
+                    },
+                    {
+                        "name": "CS",
+                        "points": 10
+                    }
+                ]
+            },
         ]
     },
 ]

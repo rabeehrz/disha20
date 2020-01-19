@@ -3,10 +3,11 @@
 //RJ HUNT: EE(25)
 //Persona: ME(30)
 //Face of Disha(Girls): ME(15)
+//Face of Disha(Boys): CE(15)
 var points = {
     "EC": 55,
     "CS": 0,
-    "CE": 0,
+    "CE": 15,
     "ME": 45,
     "EE": 25,
     "Arch": 0

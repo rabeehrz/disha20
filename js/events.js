@@ -1279,6 +1279,109 @@ events = [
                 ]
             },
             {
+                "name": "PREPARED SOLO",
+                "time": "",
+                "venue": "DJ HALL",
+                "winners": [
+                    {
+                        "name": "EE",
+                        "points": 15
+                    },
+                    {
+                        "name": "CS",
+                        "points": 10
+                    },
+                    {
+                        "name": "CE",
+                        "points": 5
+                    }
+                ]
+            },
+            {
+                "name": "WALL PAINTING",
+                "time": "",
+                "venue": "DJ HALL",
+                "winners": [
+                    {
+                        "name": "Arch",
+                        "points": 25
+                    },
+                    {
+                        "name": "EC",
+                        "points": 15
+                    },
+                    {
+                        "name": "ME",
+                        "points": 10
+                    },
+                    {
+                        "name": "CS",
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "name": "MIMICRY",
+                "time": "",
+                "venue": "DJ HALL",
+                "winners": [
+                    {
+                        "name": "EE",
+                        "points": 5
+                    },
+                    {
+                        "name": "CE",
+                        "points": 3
+                    },
+                    {
+                        "name": "CE",
+                        "points": 1
+                    }
+                ]
+            },
+            {
+                "name": "MIME",
+                "time": "",
+                "venue": "DJ HALL",
+                "winners": [
+                    {
+                        "name": "ME",
+                        "points": 25
+                    },
+                    {
+                        "name": "EC",
+                        "points": 15
+                    },
+                    {
+                        "name": "CS",
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "name": "DUET",
+                "time": "",
+                "venue": "DJ HALL",
+                "winners": [
+                    {
+                        "name": "CS",
+                        "points": 15
+                    },
+                    {
+                        "name": "EC",
+                        "points": 10
+                    },
+                    {
+                        "name": "CE",
+                        "points": 5
+                    },
+                    {
+                        "name": "ME",
+                        "points": 5
+                    }
+                ]
+            },
+            {
                 "name": "HOW DARE YOU",
                 "time": "",
                 "venue": "",

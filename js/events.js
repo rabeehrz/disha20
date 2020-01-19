@@ -1311,10 +1311,6 @@ events = [
                         "points": 15
                     },
                     {
-                        "name": "ME",
-                        "points": 10
-                    },
-                    {
                         "name": "CS",
                         "points": 10
                     }
@@ -1390,6 +1386,101 @@ events = [
                         "name":"ME",
                         "points": 5
                     },
+                ]
+            },
+            {
+                "name": "BATTLE OF BANDS",
+                "time": "",
+                "venue": "DJ HALL",
+                "winners": [
+                    {
+                        "name": "ME",
+                        "points": 25
+                    },
+                    {
+                        "name": "EC",
+                        "points": 15
+                    },
+                    {
+                        "name": "CS",
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "name": "VERSIFICATION (HINDI)",
+                "time": "",
+                "venue": "DJ HALL",
+                "winners": [
+                    {
+                        "name": "Arch",
+                        "points": 5
+                    },
+                    {
+                        "name": "EE",
+                        "points": 3
+                    },
+                    {
+                        "name": "CE",
+                        "points": 1
+                    }
+                ]
+            },
+            {
+                "name": "SKIT",
+                "time": "",
+                "venue": "DJ HALL",
+                "winners": [
+                    {
+                        "name": "CE",
+                        "points": 25
+                    },
+                    {
+                        "name": "EC",
+                        "points": 15
+                    },
+                    {
+                        "name": "ME",
+                        "points": 10
+                    }
+                ]
+            },
+            {
+                "name": "SPOT PHOTOGRAPHY",
+                "time": "",
+                "venue": "DJ HALL",
+                "winners": [
+                    {
+                        "name": "ME",
+                        "points": 5
+                    },
+                    {
+                        "name": "EC",
+                        "points": 3
+                    },
+                    {
+                        "name": "CE",
+                        "points": 1
+                    }
+                ]
+            },
+            {
+                "name": "GROUP DANCE",
+                "time": "",
+                "venue": "DJ HALL",
+                "winners": [
+                    {
+                        "name": "CS",
+                        "points": 30
+                    },
+                    {
+                        "name": "EC",
+                        "points": 20
+                    },
+                    {
+                        "name": "ME",
+                        "points": 10
+                    }
                 ]
             },
         ]

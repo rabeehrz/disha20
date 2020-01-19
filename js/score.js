@@ -2,14 +2,13 @@
 //Disha Idol: EC(25)
 //RJ HUNT: EE(25)
 //Persona: ME(30)
-//Face of Disha(Boys): EE(15)
 //Face of Disha(Girls): ME(15)
 var points = {
     "EC": 55,
     "CS": 0,
     "CE": 0,
     "ME": 45,
-    "EE": 40,
+    "EE": 25,
     "Arch": 0
 };
 for(var i = 0; i < events.length; i++) {

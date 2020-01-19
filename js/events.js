@@ -1256,4 +1256,66 @@ events = [
             },
         ]
     },
+    {
+        "date": "January 19",
+        "events": [
+            {
+                "name": "ADAPTUNE",
+                "time": "",
+                "venue": "DJ HALL",
+                "winners": [
+                    {
+                        "name": "EE",
+                        "points": 15
+                    },
+                    {
+                        "name": "CS",
+                        "points": 10
+                    },
+                    {
+                        "name": "EC",
+                        "points": 5
+                    }
+                ]
+            },
+            {
+                "name": "PREPARED SOLO",
+                "time": "",
+                "venue": "DJ HALL",
+                "winners": [
+                    {
+                        "name":"EE",
+                        "points": 15
+                    },
+                    {
+                        "name":"CS",
+                        "points": 10
+                    },
+                    {
+                        "name":"CE",
+                        "points": 5
+                    }
+                ]
+            },
+            {
+                "name": "DUET",
+                "time": "",
+                "venue": "DJ HALL",
+                "winners": [
+                    {
+                        "name":"CS",
+                        "points": 15
+                    },
+                    {
+                        "name":"CE",
+                        "points": 10
+                    },
+                    {
+                        "name":"EC",
+                        "points": 5
+                    }
+                ]
+            }
+        ]
+    },
 ]

@@ -1297,25 +1297,6 @@ events = [
                     }
                 ]
             },
-            {
-                "name": "DUET",
-                "time": "",
-                "venue": "DJ HALL",
-                "winners": [
-                    {
-                        "name":"CS",
-                        "points": 15
-                    },
-                    {
-                        "name":"CE",
-                        "points": 10
-                    },
-                    {
-                        "name":"EC",
-                        "points": 5
-                    }
-                ]
-            }
         ]
     },
 ]

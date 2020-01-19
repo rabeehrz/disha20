@@ -1279,25 +1279,6 @@ events = [
                 ]
             },
             {
-                "name": "MIME",
-                "time": "",
-                "venue": "DJ HALL",
-                "winners": [
-                    {
-                        "name":"ME",
-                        "points": 25
-                    },
-                    {
-                        "name":"EC",
-                        "points": 15
-                    },
-                    {
-                        "name":"CS",
-                        "points": 10
-                    }
-                ]
-            },
-            {
                 "name": "HOW DARE YOU",
                 "time": "",
                 "venue": "",
